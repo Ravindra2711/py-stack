@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+scanner/__init__.py
+scanner/__main__.py
+scanner/analyser.py
+scanner/cli.py
+scanner/input_parser.py
+scanner/repo_manager.py
+scanner/reporter.py
+scanner/rules.py
+scanner/scanner.py
+tech_stack_scanner.egg-info/PKG-INFO
+tech_stack_scanner.egg-info/SOURCES.txt
+tech_stack_scanner.egg-info/dependency_links.txt
+tech_stack_scanner.egg-info/entry_points.txt
+tech_stack_scanner.egg-info/top_level.txt
